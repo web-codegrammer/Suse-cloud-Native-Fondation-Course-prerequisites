@@ -57,3 +57,11 @@ Note: Using [zsh](https://ohmyz.sh/) is not demanding, but installing it and set
 2. Since most part of the curriculum is web-oriented, it will be really good if you try to develop a real webapp and host it on the internet. I like to host my apps on digital ocean. They have great tutorials about it. It's the perfect way to practice all these concepts together, since you'll have to use the command line, move files around on linux, spin up docker containers and so on. If you can accomplish that, you're ready to the program.
 
 3. Don't think you have to master every topic in order to be successful in the program. You'll learn a lot of things on the go. Just make sure you understand the basics and spend enough time to code and apply what you learn.
+
+
+## License 
+
+[MIT](https://github.com/web-codegrammer/Weather-Forecast-Progressive-web-Application/blob/master/LICENSE)
+
+Issued to ```Devanshu Vashishtha``` | Copyright ©️ 2021-2022 web-codegrammer All Rights Reserved | 2021
+
