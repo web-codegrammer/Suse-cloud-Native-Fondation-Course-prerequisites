@@ -61,7 +61,7 @@ Note: Using [zsh](https://ohmyz.sh/) is not demanding, but installing it and set
 
 ## License 
 
-[MIT](https://github.com/web-codegrammer/Weather-Forecast-Progressive-web-Application/blob/master/LICENSE)
+[MIT](https://github.com/web-codegrammer/Suse-cloud-Native-Fondation-Course-prerequisites/blob/main/LICENSE)
 
-Issued to ```Devanshu Vashishtha``` | Copyright ©️ 2021-2022 web-codegrammer All Rights Reserved | 2021
+Issued to ```Devanshu Vashishtha``` | Copyright ©️ 2021-2022 .[web-codegrammer](https://github.com/web-codegrammer). All Rights Reserved | 2021
 
