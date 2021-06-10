@@ -1,4 +1,4 @@
-# SUSE Cloud Native Foundations Scholarship Courese Prequisites
+# SUSE Cloud Native Foundations Scholarship Courese Prerequisites
 
 This is a list with the requirements for the SUSE Cloud Native Foundations Scholarship. It also has links to resources if you need to prepare for the course.
 
